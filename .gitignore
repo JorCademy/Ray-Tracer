@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+#sdl2-mixer  
+/dist
+*.mp3
+*.wav
+/.cabal-sandbox
+/cabal.sandbox.config
+.stack-work
+/dist-newstyle
+.ghc.environment.*
